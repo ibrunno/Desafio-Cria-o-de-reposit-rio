@@ -1,2 +1,2 @@
-# Desafio para criação e alterações em repositório
-Repositório de criação para o desafio da DIO
+# Desafio para criação e alterações em repositório para o desafio na DIO
+Foram feitas alterações e comitadas para o GitHub online através do GitBash
